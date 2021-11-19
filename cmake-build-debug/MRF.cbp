@@ -89,6 +89,9 @@
 		<Unit filename="/home/finley/CODE/Markov-Random-Field/AutoPtr.h">
 			<Option target="MRF"/>
 		</Unit>
+		<Unit filename="/home/finley/CODE/Markov-Random-Field/LBP.h">
+			<Option target="MRF"/>
+		</Unit>
 		<Unit filename="/home/finley/CODE/Markov-Random-Field/List.h">
 			<Option target="MRF"/>
 		</Unit>
