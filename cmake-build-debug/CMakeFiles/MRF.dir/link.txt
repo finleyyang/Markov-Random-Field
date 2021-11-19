@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MRF.dir/main.cpp.o -o MRF 
